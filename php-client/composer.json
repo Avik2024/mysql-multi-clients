@@ -1,0 +1,6 @@
+{
+  "name": "php-client",
+  "require": {
+    "ext-pdo": "*"
+  }
+}
